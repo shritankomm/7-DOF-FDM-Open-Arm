@@ -1,6 +1,6 @@
 There are four files in this folder, each of which contains a part of the arm and can be downloaded via STEP. format for easy slicing and editing
 
-the **All Parts.STEP file** contains all 57 parts, including the right arm, left arm, and middle body assemblies. ⬇⬇
+the **All Parts.STEP file** contains all 53 parts, including the right arm, left arm, and middle body assemblies. ⬇⬇
 <img width="815" height="774" alt="image" src="https://github.com/user-attachments/assets/576112e2-3742-4e19-a9e3-76f8c4a200c9" />
 
 
