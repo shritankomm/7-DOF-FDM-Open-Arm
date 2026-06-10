@@ -38,7 +38,7 @@ All parts, links, and pricing can be found in BOM.md
 
 ## Build Instructions
 
-Full step-by-step assembly instructions can be found in instructions.md. Follow along via the build journal in /journal to track design decisions and progress in the meantime.
+Full step-by-step assembly instructions can be found in instructions.md. Follow along via the build journal in /DOCS to track design decisions and progress in the meantime.
 
 ---
 
