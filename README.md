@@ -17,6 +17,11 @@ An open-source, fully 3D-printable 7-DOF humanoid robotic arm designed as an acc
 - Under $1,000 - accessible to students, researchers, and makers without institutional budgets
 
 ---
+## Inspiration
+- I made this project as something I find interest in is human-related robotics. In the past, I have made prosthetics and other medical devices, and this felt like the fun next step. I also built this as an act to make a low-cost research tool and as an ability for me to begin learning more advanced robotics. Things like ROS and openCV are new things to me that I want to integrate and explore, and I want to document this journey and open-source it so others can follow and build upon the project, doing bigger and better things. I hope I can inspire people to do more human-centered robotics, and I definitely have plans for more humanoid robot projects (a pair of legs potentially) and hope to be able to document them on GitHub and make them open source for everyone to be able to learn.
+
+
+---
 
 ## Hardware
 
