@@ -6,6 +6,11 @@ An open-source, fully 3D-printable 7-DOF humanoid robotic arm designed as an acc
 
 ---
 
+## Inspiration
+- I made this project as something I find interest in is human-related robotics. In the past, I have made prosthetics and other medical devices, and this felt like the fun next step. I also built this as an act to make a low-cost research tool and as an ability for me to begin learning more advanced robotics. I'm exploring ROS and OpenCV and plan to integrate them. I'll document this journey and open-source it so others can follow and build upon the project, doing bigger and better things. I aim to inspire more human-centered robotics. I have plans for more humanoid robot projects (a pair of legs, for example) and will document them on GitHub and make them open source so everyone can learn.
+
+---
+
 ## Features
 
 - 7 Degrees of Freedom - full human-like range of motion across the shoulder, elbow, and wrist
@@ -15,10 +20,6 @@ An open-source, fully 3D-printable 7-DOF humanoid robotic arm designed as an acc
 - VR teleoperation - control the arm intuitively through a VR headset
 - Autonomous and agentic control - onboard Raspberry Pi 5 and camera enable independent perception and decision-making
 - Under $1,000 - accessible to students, researchers, and makers without institutional budgets
-
----
-## Inspiration
-- I made this project as something I find interest in is human-related robotics. In the past, I have made prosthetics and other medical devices, and this felt like the fun next step. I also built this as an act to make a low-cost research tool and as an ability for me to begin learning more advanced robotics. I'm exploring ROS and OpenCV and plan to integrate them. I'll document this journey and open-source it so others can follow and build upon the project, doing bigger and better things. I aim to inspire more human-centered robotics. I have plans for more humanoid robot projects (a pair of legs, for example) and will document them on GitHub and make them open source so everyone can learn.
 
 
 ---
