@@ -1,6 +1,9 @@
-There are four files in this folder, each of which contains a part of the arm and can be downloaded via STEP. format for easy slicing and editing
+There are four STEP files located in the STEP folder, and there is also an STL folder, which contains every individual part as an STL file for easy printing.
 
-the **All Parts.STEP file** contains all 53 parts, including the right arm, left arm, and middle body assemblies. ⬇⬇
+**For the STL files, if the part says mirrored, then it is a part of the right arm, and if it doesn't say anything, it is either a part of the left arm or perfectly symmetrical when mirrored over. Best way to print with this is to download all the files and then print them 1 by 1 but the servos can be ignored; those don't need to be printed.**
+
+
+the **All Parts.STEP file** contains all 57 parts, including the right arm, left arm, and middle body assemblies. ⬇⬇
 <img width="815" height="774" alt="image" src="https://github.com/user-attachments/assets/576112e2-3742-4e19-a9e3-76f8c4a200c9" />
 
 
