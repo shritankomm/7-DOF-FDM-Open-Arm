@@ -1,4 +1,4 @@
-**Total parts: 53**
+**Total parts: 57**
 
 1. 4040 extrusion
 2. chest plate holder (2x)
