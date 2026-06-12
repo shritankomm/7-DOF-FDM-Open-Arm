@@ -1,6 +1,6 @@
 # 7-DOF Open Source 3D Printed Humanoid Arms
 
-An open-source, fully 3D-printable 7-DOF humanoid robotic arm designed as an accessible research platform. Built with high-torque Feetech serial bus servos and a Raspberry Pi 5, it supports ROS2 for motion planning/reinforcement learning/simulation, VR teleoperation for intuitive control, and autonomous/agentic operation via an onboard camera. With all CAD files, BOM, and software fully open source, anyone can build and expand on it for under $1,000.
+An open-source, fully 3D-printable 7-DOF humanoid robotic arm designed as an accessible research platform. Built with high-torque Feetech serial bus servos and a Raspberry Pi 4, it supports ROS2 for motion planning/simulation, VR teleoperation for intuitive control, and autonomous/agentic operation via an onboard camera. With all CAD files, BOM, and software fully open source, anyone can build and expand on it for under $800.
 
 <img width="832" height="683" alt="image" src="https://github.com/user-attachments/assets/5fb91a15-26a2-44ff-a8f1-01cf45a75f68" />
 
@@ -14,13 +14,13 @@ An open-source, fully 3D-printable 7-DOF humanoid robotic arm designed as an acc
 ## Features of the Project when Finished
 
 - 7 Degrees of Freedom - full human-like range of motion across the shoulder, elbow, and wrist
-- High-torque serial bus servos - 30 kg at most joints, 50kg at the shoulder
+- High-torque serial bus servos - 30 kgcm at most joints, 50kgcm at the shoulder
 - Fully 3D printable - all structural components printed in PETG at high infill, no custom machined parts required
 - ROS2 integration - built for compatibility with the broader robotics software ecosystem
-- Advanced simulation using Gazebo and reinforcement learning powered by the Pi 5
+- Advanced simulation using Gazebo 
 - VR teleoperation - control the arm intuitively through a VR headset
-- Autonomous and agentic control - onboard Raspberry Pi 5 and camera enable independent perception and decision-making
-- Under $1,000 - accessible to students, researchers, and makers without big budgets
+- Autonomous and agentic control - onboard Raspberry Pi 4 and camera enable independent perception and decision-making
+- Under $800 - accessible to students, researchers, and makers without big budgets
 
 
 ---
