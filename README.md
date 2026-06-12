@@ -11,7 +11,7 @@ An open-source, fully 3D-printable 7-DOF humanoid robotic arm designed as an acc
 
 ---
 
-## Features of the Finished Project
+## Features of the Project when Finished
 
 - 7 Degrees of Freedom - full human-like range of motion across the shoulder, elbow, and wrist
 - High-torque serial bus servos - 30 kg at most joints, 50kg at the shoulder
