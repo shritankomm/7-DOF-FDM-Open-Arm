@@ -70,7 +70,7 @@ This is the preliminary wiring diagram for the project.
 
 ## Build Instructions
 
-Full step-by-step assembly instructions can be found in instructions.md. Follow along via the build journal in /DOCS to track design decisions and progress in the meantime. (coming soon)
+Full step-by-step assembly instructions can be found in instructions.md. Follow along via the build journal in /DOCS to track design decisions and progress.
 
 ---
 
